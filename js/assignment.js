@@ -29,7 +29,8 @@ function updateResolution() {
 
 function render() {
     // Finish writing this function
-    
+    updateYear()
+    updateResolution()
 
 }
 
