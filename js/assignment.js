@@ -8,6 +8,11 @@ const willMeetResolutionElement = document.getElementById("will-meet-resolution"
 const submissionBtn = document.getElementById("submission-btn")
 
 // Declare your variables here.
+const resolution = 'Full Stack Developer job'
+const currentYear = 2024
+let willMeetResolution = 'yes'
+
+
 
 function updateYear() {
     // write the logic
