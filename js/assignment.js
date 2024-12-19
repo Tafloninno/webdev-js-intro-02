@@ -36,5 +36,6 @@ function render() {
 
 submissionBtn.addEventListener("click", function () {
     // Finish writing this function
+    render()
 
 })
